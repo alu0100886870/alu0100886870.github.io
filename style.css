@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #FCFCFC;
+  font-size: 14px;
+  color: #000000;
+  font-style: normal;
+  text-align: left;
+}
+
+.header{
+	width: 500px;
+}
+
+#logo{
+	height: 100px;
+}
+
+#logocontainer{
+	position: relative;
+    left: 20px;
+}
+
+.bloque {
+	border-radius: 1em; 
+	background: #F9F9F9;
+	padding: 10px;
+}
+	
+.bloque { box-shadow: black 0.2em 0.2em 1.2em }
